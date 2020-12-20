@@ -4,3 +4,8 @@ Homeworks/BaselineOnly.pickle
 Homeworks/CoClustering.pickle
 Homeworks/KNNWithMeans.pickle
 FinalProject/Testing/RawData/*
+FinalProject/MatrixFactorization/RawData/*
+FinalProject/MatrixFactorization/finalTrainset.csv
+FinalProject/MatrixFactorization/train_num_genres.csv/*
+FinalProject/MatrixFactorization/train_with_empty.csv
+FinalProject/MatrixFactorization/TrainPredictions/*
